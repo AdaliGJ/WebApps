@@ -1,0 +1,26 @@
+
+
+p{
+    text-align: justify;
+    margin-bottom: 1px;
+}
+
+.nav-item{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+img{
+    align-self: center;
+    width: 60%;
+    height: auto;
+}
+
+h1, h2{
+    margin-top: 0px;
+}
+
+.contenido{
+    margin-bottom: 6px;
+    margin-top: 0px;
+}
